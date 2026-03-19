@@ -6,6 +6,6 @@
 
 <p align="center">
   <a href="https://github.com">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard1Dev&layout=compact&theme=transparent" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard1Dev&custom_title=Languages&hide_border=true&layout=compact&theme=transparent" alt="Top Langs" />
   </a>
 </p>
